@@ -1,5 +1,5 @@
 MANIFEST
 Changes
 Makefile.PL
-Class/MethodMapper.pm
+lib/Class/MethodMapper.pm
 test.pl

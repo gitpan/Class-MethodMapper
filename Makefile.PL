@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
    MAKEFILE     => 'Makefile',
-   VERSION_FROM => 'Class/MethodMapper.pm',
+   VERSION_FROM => 'lib/Class/MethodMapper.pm',
    NAME         => 'Class::MethodMapper',  
    dist         => {
       COMPRESS =>'gzip',
