@@ -1,0 +1,3 @@
+0.9_00 Kevin Lenzo <lenzo@cs.cmu.edu>
+	Changed set_map and get_map to accept hashes
+	rather than hashrefs. 			
